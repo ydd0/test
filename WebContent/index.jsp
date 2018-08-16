@@ -6,9 +6,10 @@
 <html>
 <head>
 
-<title>Insert title here</title>
+<title>mvc</title>
 </head>
 <body>
+	<h1>Git을 사용하는방법.</h1>
 
 </body>
 </html>
